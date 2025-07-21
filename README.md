@@ -13,5 +13,5 @@ Control Subway Surfers using hand gestures with Python, MediaPipe, and OpenCV.
 - Raise hand -> Jump  
 - Fist -> Roll  
 
-## 🛠️ Setup
-```bash
+[Watch Demo Video](https://drive.google.com/file/d/1SqAXa4XqTSeQfOyTtcnJGbxy9dISXfOk/view?usp=drive_link)
+
